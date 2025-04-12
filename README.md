@@ -15,12 +15,14 @@ Our group name is **Super Idol Smile**, so we wanted our app name to reflect **p
 
 - We started with `:)` and `XD` — both represent **smiles**.
 - `XD` looked fun, but didn’t reflect donation clearly.
-- Then we realized:  
+- Then we realized:
+  →**“XD” = resembles a big smile or laughing face**,  
+  → **“D” = can stand for Donation - the core of our app**,  
   → `X` could feel like a **rejection or “no”**,  
   → so we added `!` to **cancel the negativity**, resulting in `!XDonate`.
 
 So `!XDonate` combines:
-- **“XD” = a big smile**,  
+- **“XD” = resembles a big smile or laughing face**,  
 - **“Donate” = our mission**,  
 - and **“!X” = turning a “no” into a positive action**.
 
